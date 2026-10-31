@@ -1,0 +1,39 @@
+company_id,company_name,domain,industry,country,employees
+CO001,Northwind Logistics,northwind.com,Logistics,US,25
+CO002,Brightpath Health,brightpath.com,Logistics,FR,80
+CO003,Quill Analytics,quill.com,Healthcare,US,5000
+CO004,Lumen AI,lumen.com,Software,AU,25
+CO005,Acme Corp,acme.com,Manufacturing,GB,25
+CO006,Orbit Devices,orbit.com,Software,US,80
+CO007,Harbor Freight Tech,harbor.com,Healthcare,AU,1200
+CO008,Juniper Labs,juniper.com,Software,AU,80
+CO009,Cobalt Systems,cobalt.com,Logistics,AU,450
+CO010,Riverstone Bank,riverstone.com,Healthcare,SG,1200
+CO011,Atlas Robotics,atlas.com,Financial Services,GB,80
+CO012,Fernhill Retail,fernhill.com,Logistics,GB,200
+CO013,Kestrel Security,kestrel.com,Financial Services,US,80
+CO014,Maple Learning,maple.com,Media,US,25
+CO015,Nimbus Cloud,nimbus.com,Software,GB,25
+CO016,Oakridge Pharma,oakridge.com,Financial Services,US,1200
+CO017,Pioneer Energy,pioneer.com,Financial Services,GB,5000
+CO018,Quartz Media,quartz.com,Retail,AU,25
+CO019,Redwood Insurance,redwood.com,Retail,US,1200
+CO020,Summit Travel,summit.com,Financial Services,US,200
+CO021,Tidal Foods,tidal.com,Manufacturing,DE,5000
+CO022,Umbra Games,umbra.com,Software,GB,5000
+CO023,Vertex Legal,vertex.com,Healthcare,FR,25
+CO024,Willow Telecom,willow.com,Media,DE,25
+CO025,Xeno Biotech,xeno.com,Retail,FR,450
+CO026,Yarrow Fashion,yarrow.com,Logistics,US,80
+CO027,Zephyr Mobility,zephyr.com,Financial Services,US,80
+CO028,Granite Build,granite.com,Logistics,FR,5000
+CO029,Helix Software,helix.com,Logistics,US,1200
+CO030,Ivory Hotels,ivory.com,Logistics,US,1200
+CO031,Jasper Payments,jasper.com,Logistics,DE,80
+CO032,Krypton Chips,krypton.com,Retail,GB,200
+CO033,Lattice HR,lattice.com,Logistics,AU,80
+CO034,Meridian Ports,meridian.com,Logistics,US,25
+CO035,Nova Fintech,nova.com,Healthcare,GB,200
+CO036,Onyx Mining,onyx.com,Retail,FR,25
+CO901,ACME corp,acme.com,Manufacturing,US,1200
+CO902,Juniper Labs Ltd,,Software,GB,80

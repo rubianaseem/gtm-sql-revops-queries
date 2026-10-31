@@ -1,0 +1,106 @@
+deal_id,deal_name,company_id,owner_id,pipeline,deal_stage,amount,currency,create_date,close_date,primary_contact_id
+D0001,Northwind Logistics - New Business,CO001,O1,New Business,closedlost,85000,,2026-06-06,2026-06-10,CT0242
+D0002,Northwind Logistics - New Business,CO001,O1,New Business,closedlost,32000,USD,2026-06-16,2026-07-13,CT0242
+D0003,Brightpath Health - New Business,CO002,O4,New Business,qualifiedtobuy,12000,eur,2026-09-19,2026-10-13,CT0006
+D0004,Quill Analytics - New Business,CO003,O2,New Business,closedlost,12000,USD,2026-03-27,2026-05-11,CT0014
+D0005,Lumen AI - New Business,CO004,O3,New Business,closedlost,85000,AUD,2026-07-08,2026-07-24,CT0024
+D0006,Lumen AI - New Business,CO004,O4,New Business,discovery ,12000,aud,2026-10-18,2027-03-01,CT0022
+D0007,Acme Corp - Renewal,CO005,O5,Renewal,qualifiedtobuy,120000,GBP,2026-09-27,2027-03-25,CT0028
+D0008,Acme Corp - New Business,CO005,,New Business,Closed Lost,120000,gbp,2026-06-17,2026-07-13,CT0029
+D0009,Acme Corp - New Business,CO005,O1,New Business,closed won,25000,GBP,2026-07-15,2026-10-29,CT0030
+D0010,Acme Corp - New Business,CO005,O2,New Business,closedlost,60000,,2026-10-05,2026-10-23,CT0032
+D0011,Orbit Devices - New Business,CO006,O1,New Business,closedlost,8000,usd,2026-01-13,2026-03-11,CT0035
+D0012,Orbit Devices - New Business,CO006,O2,New Business,closedlost,85000,USD,2026-05-04,2026-09-27,CT0243
+D0013,Orbit Devices - New Business,CO006,,New Business,closedlost,12000,,2026-07-26,2026-09-05,CT0037
+D0014,Orbit Devices - New Business,CO006,O1,New Business,closed won,25000,USD,2026-03-08,2026-06-26,CT0041
+D0015,Harbor Freight Tech - Renewal,CO007,O4,Renewal,closedlost,25000,,2025-11-25,2026-01-19,CT0046
+D0016,Harbor Freight Tech - New Business,CO007,O3,New Business,closedlost,32000,AUD,2026-01-30,2026-05-15,CT0042
+D0017,Harbor Freight Tech - New Business,CO007,O2,New Business,closedlost,18000,aud,2026-04-02,2026-05-22,CT0049
+D0018,Juniper Labs - New Business,CO008,O4,New Business,closedlost,85000,AUD,2026-09-21,2026-10-11,CT0058
+D0019,Juniper Labs - New Business,CO008,O1,New Business,presentationscheduled,25000,,2026-09-04,2026-11-11,CT0055
+D0020,Juniper Labs - New Business,CO008,O3,New Business,appointmentscheduled,25000,AUD,2026-07-13,2027-02-02,CT0057
+D0021,Cobalt Systems - New Business,CO009,O1,New Business,Closed Lost,60000,,2026-05-03,2026-06-05,CT0061
+D0022,Cobalt Systems - New Business,CO009,O5,New Business,Closed Lost,60000,AUD,2026-04-25,2026-08-17,CT0064
+D0023,Cobalt Systems - New Business,CO009,O5,New Business,Closed Lost,25000,aud,2026-03-16,2026-04-26,CT0061
+D0024,Riverstone Bank - New Business,CO010,O1,New Business,closedlost,85000,SGD,2026-03-22,2026-03-27,CT0068
+D0025,Riverstone Bank - New Business,CO010,O4,New Business,closedlost,45000,SGD,2026-05-28,2026-07-04,CT0067
+D0026,Atlas Robotics - New Business,CO011,O1,New Business,presentationscheduled,18000,gbp,2026-09-11,2026-12-31,CT0071
+D0027,Atlas Robotics - Renewal,CO011,O1,Renewal,discovery ,60000,GBP,2026-06-07,2026-12-31,CT0072
+D0028,Atlas Robotics - New Business,CO011,O3,New Business,qualifiedtobuy,12000,gbp,2026-10-01,2026-11-22,CT0071
+D0029,Fernhill Retail - New Business,CO012,O1,New Business,Proposal,8000,GBP,2026-08-21,2027-01-08,CT0075
+D0030,Fernhill Retail - New Business,CO012,O1,New Business,Closed Lost,12000,GBP,2026-08-17,2026-09-10,CT0075
+D0031,Kestrel Security - New Business,CO013,O3,New Business,Closed Lost,60000,USD,2025-11-01,2025-11-14,CT0086
+D0032,Kestrel Security - New Business,CO013,O4,New Business,discovery ,8000,,2026-10-16,2027-03-06,CT0083
+D0033,Kestrel Security - New Business,CO013,O3,New Business,appointmentscheduled,32000,USD,2026-08-26,2026-10-17,CT0084
+D0034,Maple Learning - New Business,CO014,O1,New Business,Qualified,85000,USD,2026-09-11,2026-11-03,CT0094
+D0035,Nimbus Cloud - New Business,CO015,O4,New Business,closedlost,32000,GBP,2026-06-21,2026-07-14,CT0095
+D0036,Nimbus Cloud - New Business,CO015,O5,New Business,Closed Lost,120000,GBP,2026-07-07,2026-09-21,CT0095
+D0037,Nimbus Cloud - New Business,CO015,O2,New Business,closedlost,60000,GBP,2026-07-11,2026-09-29,CT0099
+D0038,Oakridge Pharma - Renewal,CO016,O4,Renewal,Closed Lost,85000,USD,2026-03-07,2026-03-12,CT0107
+D0039,Oakridge Pharma - New Business,CO016,O4,New Business,closedwon,85000,USD,2026-01-25,2026-04-24,CT0107
+D0040,Pioneer Energy - New Business,CO017,O5,New Business,closedlost,12000,GBP,2025-11-23,2026-01-12,CT0110
+D0041,Pioneer Energy - New Business,CO017,O4,New Business,Closed Lost,45000,gbp,2026-05-07,2026-08-06,CT0108
+D0042,Pioneer Energy - New Business,CO017,O4,New Business,Closed Won,32000,gbp,2026-05-16,2026-09-08,CT0109
+D0043,Quartz Media - New Business,CO018,O1,New Business,Closed Won,32000,,2025-11-28,2026-04-28,CT0113
+D0044,Quartz Media - New Business,CO018,O5,New Business,discovery ,45000,aud,2026-10-16,2026-12-07,CT0114
+D0045,Quartz Media - New Business,CO018,,New Business,contractsent,85000,AUD,2026-08-31,2026-10-24,CT0117
+D0046,Redwood Insurance - New Business,CO019,O1,New Business,discovery ,85000,USD,2026-10-06,2026-11-23,CT0126
+D0047,Redwood Insurance - New Business,CO019,O3,New Business,closedlost,60000,usd,2026-06-15,2026-08-11,CT0122
+D0048,Summit Travel - New Business,CO020,O2,New Business,qualifiedtobuy,18000,USD,2026-10-11,2026-11-22,CT0128
+D0049,Summit Travel - New Business,CO020,O2,New Business,Closed Lost,18000,USD,2026-05-02,2026-07-14,CT0131
+D0050,Summit Travel - New Business,CO020,O1,New Business,closedlost,32000,,2026-06-12,2026-06-28,CT0129
+D0051,Summit Travel - New Business,CO020,O3,New Business,Proposal,120000,USD,2026-07-01,2026-11-07,CT0127
+D0052,Tidal Foods - New Business,CO021,O4,New Business,discovery ,85000,EUR,2026-07-11,2026-10-14,CT0132
+D0053,Tidal Foods - Renewal,CO021,O2,Renewal,presentationscheduled,12000,EUR,2026-03-30,2026-10-23,CT0135
+D0054,Umbra Games - New Business,CO022,O1,New Business,Negotiation,18000,,2026-03-05,2027-01-17,CT0137
+D0055,Umbra Games - New Business,CO022,,New Business,Closed Lost,18000,gbp,2026-04-23,2026-07-06,CT0142
+D0056,Umbra Games - New Business,CO022,O2,New Business,closedlost,18000,,2026-09-06,2026-09-12,CT0139
+D0057,Umbra Games - New Business,CO022,O2,New Business,Discovery,8000,,2026-02-12,2027-03-24,CT0141
+D0058,Vertex Legal - New Business,CO023,O4,New Business,Closed Lost,85000,EUR,2026-05-23,2026-07-31,CT0151
+D0059,Vertex Legal - New Business,CO023,O4,New Business,closedlost,45000,EUR,2026-02-17,2026-06-04,CT0152
+D0060,Vertex Legal - New Business,CO023,,New Business,closed won,25000,EUR,2026-04-30,2026-08-16,CT0145
+D0061,Willow Telecom - New Business,CO024,O3,New Business,Negotiation,25000,EUR,2026-05-05,2027-02-28,CT0155
+D0062,Willow Telecom - New Business,CO024,O2,New Business,discovery ,45000,,2026-09-30,2027-03-09,CT0157
+D0063,Willow Telecom - Renewal,CO024,O1,Renewal,Demo,12000,eur,2026-04-25,2026-11-21,CT0155
+D0064,Xeno Biotech - Renewal,CO025,,Renewal,discovery ,25000,EUR,2026-07-22,2026-12-23,CT0161
+D0065,Xeno Biotech - New Business,CO025,O5,New Business,appointmentscheduled,8000,eur,2026-08-18,2027-02-01,CT0161
+D0066,Yarrow Fashion - New Business,CO026,O1,New Business,discovery ,18000,USD,2026-05-27,2026-11-24,CT0167
+D0067,Yarrow Fashion - New Business,CO026,O5,New Business,Closed Lost,18000,USD,2026-04-20,2026-05-22,CT0170
+D0068,Yarrow Fashion - Renewal,CO026,,Renewal,Closed Lost,45000,USD,2026-02-27,2026-05-17,CT0168
+D0069,Yarrow Fashion - New Business,CO026,O5,New Business,Closed Lost,12000,,2026-03-11,2026-06-16,CT0172
+D0070,Zephyr Mobility - New Business,CO027,O4,New Business,Closed Lost,12000,USD,2026-01-06,2026-03-12,CT0176
+D0071,Granite Build - New Business,CO028,O3,New Business,closed won,45000,EUR,2026-09-06,2026-10-09,CT0185
+D0072,Granite Build - New Business,CO028,O4,New Business,Qualified,60000,EUR,2026-05-14,2027-03-25,CT0183
+D0073,Granite Build - Renewal,CO028,,Renewal,closedlost,60000,EUR,2026-06-22,2026-08-29,CT0182
+D0074,Helix Software - New Business,CO029,O1,New Business,Discovery,32000,usd,2026-05-25,2027-03-08,CT0196
+D0075,Helix Software - Renewal,CO029,O1,Renewal,Closed Won,12000,USD,2026-05-15,2026-08-29,CT0191
+D0076,Helix Software - New Business,CO029,O2,New Business,closedlost,85000,usd,2026-09-28,2026-10-07,CT0195
+D0077,Ivory Hotels - New Business,CO030,O2,New Business,closedwon,120000,usd,2026-02-10,2026-05-21,CT0202
+D0078,Ivory Hotels - Renewal,CO030,O3,Renewal,closedlost,18000,,2026-01-20,2026-02-20,CT0198
+D0079,Ivory Hotels - New Business,CO030,O1,New Business,Closed Lost,25000,usd,2025-11-11,2026-02-10,CT0198
+D0080,Ivory Hotels - New Business,CO030,O3,New Business,Closed Lost,45000,USD,2026-01-08,2026-03-14,CT0198
+D0081,Jasper Payments - New Business,CO031,O4,New Business,closedlost,18000,EUR,2026-04-25,2026-05-24,CT0209
+D0082,Jasper Payments - Renewal,CO031,O1,Renewal,closedlost,18000,,2026-04-29,2026-05-05,CT0209
+D0083,Jasper Payments - New Business,CO031,O4,New Business,Closed Lost,85000,EUR,2026-03-19,2026-04-21,CT0206
+D0084,Krypton Chips - Renewal,CO032,,Renewal,closedlost,12000,,2026-09-05,2026-10-03,CT0215
+D0085,Krypton Chips - New Business,CO032,O5,New Business,contractsent,12000,,2026-05-08,2027-01-08,CT0210
+D0086,Krypton Chips - New Business,CO032,O4,New Business,Closed Lost,60000,gbp,2026-04-18,2026-05-14,CT0210
+D0087,Krypton Chips - New Business,CO032,O1,New Business,Qualified,25000,,2026-09-25,2026-11-25,CT0215
+D0088,Lattice HR - New Business,CO033,O4,New Business,Discovery,18000,AUD,2026-10-19,2027-01-21,CT0220
+D0089,Lattice HR - New Business,CO033,O3,New Business,closedlost,60000,aud,2026-05-08,2026-05-16,CT0218
+D0090,Lattice HR - New Business,CO033,O5,New Business,Closed Lost,8000,AUD,2026-02-20,2026-04-06,CT0224
+D0091,Lattice HR - New Business,CO033,O4,New Business,closed won,18000,aud,2026-06-12,2026-09-06,CT0218
+D0092,Meridian Ports - Renewal,CO034,O2,Renewal,discovery ,12000,usd,2026-04-08,2026-11-09,CT0230
+D0093,Meridian Ports - New Business,CO034,,New Business,qualifiedtobuy,25000,,2026-10-02,2027-02-05,CT0229
+D0094,Nova Fintech - New Business,CO035,O2,New Business,Qualified,45000,gbp,2026-01-07,2026-11-03,CT0234
+D0095,Nova Fintech - Renewal,CO035,O4,Renewal,qualifiedtobuy,32000,GBP,2026-09-16,2026-12-17,CT0235
+D0096,Nova Fintech - Renewal,CO035,O1,Renewal,decisionmakerboughtin,8000,GBP,2026-03-08,2026-12-06,CT0236
+D0097,Nova Fintech - Renewal,CO035,O2,Renewal,Closed Won,85000,gbp,2026-02-05,2026-08-29,CT0234
+D0098,Onyx Mining - Renewal,CO036,O3,Renewal,qualifiedtobuy,120000,,2026-01-03,2027-03-05,CT0240
+D0099,Onyx Mining - New Business,CO036,O2,New Business,closedlost,45000,EUR,2026-04-05,2026-06-11,CT0239
+D9001,Ghost Co - New Business,CO999,O2,New Business,Proposal,40000,USD,2026-07-01,2026-12-15,
+D9002,Lumen AI - Expansion,CO004,,New Business,contractsent,55000,GBP,2026-06-10,2026-09-30,CT0020
+D9003,Atlas Robotics - New Business,CO011,O1,New Business,Demo,70000,EUR,2026-04-02,2026-11-28,
+D9004,Nova Fintech - New Business,CO035,O3,New Business,Negotiation,90000,CHF,2026-08-01,2026-12-20,
+D9005,Quill Analytics - New Business,CO003,O4,New Business,Closed Won,-15000,USD,2026-05-01,2026-08-15,
+D9006,Fernhill Retail - New Business,CO012,O4,New Business,Verbal Commit,30000,GBP,2026-09-01,2026-11-30,

@@ -1,0 +1,7 @@
+owner_id,owner_name,email,role,region,status
+O1,Maya Patel,maya.patel@example.com,AE,EMEA,active
+O2,Jordan Lee,jordan.lee@example.com,AE,NA,active
+O3,Sam Okafor,sam.okafor@example.com,AE,NA,active
+O4,Elena Rossi,elena.rossi@example.com,AE,EMEA,active
+O5,Chris Wong,chris.wong@example.com,AE,APAC,deactivated
+O6,Aisha Khan,aisha.khan@example.com,SDR,EMEA,active

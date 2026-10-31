@@ -1,0 +1,9 @@
+campaign_id,campaign_name,channel,utm_source,utm_medium,cost,currency
+C01,2026-Q1 Paid Search Brand,Paid Search,google,cpc,18000,USD
+C02,2026-Q1 LinkedIn ABM,Paid Social,linkedin,paid_social,24000,USD
+C03,RevOps Summit London 2026,Events,event,offline,30000,GBP
+C04,Pipeline Webinar Series,Webinar,hubspot,email,4000,USD
+C05,SEO Organic,Organic Search,google,organic,0,USD
+C06,Partner Referral Programme,Partner,partner,referral,9000,EUR
+C07,Outbound SDR Sequences,Outbound,outreach,email,12000,USD
+C08,linkedin abm q1,paid social,LinkedIn,Paid_Social,0,usd

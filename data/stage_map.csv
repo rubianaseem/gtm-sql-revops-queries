@@ -1,0 +1,15 @@
+raw_value,stage,stage_order,is_closed,is_won,max_days_in_stage
+appointmentscheduled,Discovery,1,0,0,21
+discovery,Discovery,1,0,0,21
+qualifiedtobuy,Qualified,2,0,0,21
+qualified,Qualified,2,0,0,21
+presentationscheduled,Demo,3,0,0,30
+demo,Demo,3,0,0,30
+decisionmakerboughtin,Proposal,4,0,0,30
+proposal,Proposal,4,0,0,30
+contractsent,Negotiation,5,0,0,45
+negotiation,Negotiation,5,0,0,45
+closedwon,Closed Won,6,1,1,
+closed won,Closed Won,6,1,1,
+closedlost,Closed Lost,0,1,0,
+closed lost,Closed Lost,0,1,0,
